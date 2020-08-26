@@ -11,6 +11,7 @@ There are 2 interfaces available, both built using Tkinter. 'ui.py' is simple GU
 Python packages required to run the simulator: Tkinter, math, random, time, threading, PIL, numpy, Keras. 
 
 Output Scrrenshots:
+
 ![img1](https://i.ibb.co/k66qy9X/TSR-1.png)
 
 
