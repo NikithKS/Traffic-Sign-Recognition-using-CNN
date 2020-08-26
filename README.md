@@ -9,3 +9,9 @@ There are 2 interfaces available, both built using Tkinter. 'ui.py' is simple GU
 'Samples' folder contains sample images of all the signs that the model can identify.
 
 Python packages required to run the simulator: Tkinter, math, random, time, threading, PIL, numpy, Keras. 
+
+Output Scrrenshots:
+![img1](https://i.ibb.co/k66qy9X/TSR-1.png)
+
+
+![img](https://i.ibb.co/DW6kh1g/TSR-2.png)
